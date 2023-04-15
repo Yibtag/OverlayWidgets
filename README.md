@@ -1,7 +1,7 @@
 # OverlayWidgets v1.0.4
 ![banner](/assets/OverlayWidgets.png)
 
-![GitHub](https://img.shields.io/github/license/Yibtag/OverlayWidgets) ![GitHub all releases](https://img.shields.io/github/downloads/Yibtag/OverlayWidgets/total) ![GitHub issues](https://img.shields.io/github/issues/Yibtag/OverlayWidgets) ![GitHub last commit](https://img.shields.io/github/last-commit/Yibtag/OverlayWidgets) ![GitHub repo size](https://img.shields.io/github/repo-size/Yibtag/OverlayWidgets)
+ ![GitHub all releases](https://img.shields.io/github/downloads/Yibtag/OverlayWidgets/total) ![GitHub issues](https://img.shields.io/github/issues/Yibtag/OverlayWidgets) ![GitHub last commit](https://img.shields.io/github/last-commit/Yibtag/OverlayWidgets) ![GitHub repo size](https://img.shields.io/github/repo-size/Yibtag/OverlayWidgets)
 
 Overlay widgets is a program that allows you to draw over other programs with its plugin api.
 
